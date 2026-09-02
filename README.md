@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Tushar%20Shandilya&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Vancouver%2C%20BC&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Tushar%20Shandilya&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Data%20%C2%B7%20Analytics%20%C2%B7%20AI%20%C2%B7%20Vancouver%2C%20BC&descSize=18&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=I+build+AI+for+people+who+didn%27t+ask+for+AI;Agentic+workflows+%E2%80%94+always+with+human+review;RAG+%C2%B7+LangChain+%C2%B7+n8n+%C2%B7+FastAPI+%C2%B7+Next.js;The+worst+failure+is+the+quiet+one" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+messy+data+into+decisions;SQL+%C2%B7+Python+%C2%B7+ETL+%C2%B7+Dashboards+%C2%B7+LLMs;From+raw+records+to+production+AI;The+worst+failure+is+the+quiet+one" alt="Typing animation" />
 
 <br/><br/>
 
@@ -15,17 +15,28 @@
 
 ## 🧠 About Me
 
-> I build AI for people who didn't ask for AI. That means sitting with whoever is doing the manual work, shipping something small, and staying long enough to see it break.
+> Dashboard or AI agent, the work is the same: sit with whoever is doing the manual work, ship something small, and stay long enough to see it break.
 
-- 🔭 **Data & AI Analyst @ Moldavite** — 8 production agentic workflows (n8n + Claude) with approval gates, recovering 50–60 hrs/month
-- 🩺 **Co-founder @ Cerebramha Technologies** — medical AI end to end, from GPU inference pipelines on AWS to clinician-ready reporting
-- 🤖 I ship **agents behind human review** — nothing sends until a person approves
+- 🔭 **Data & AI Analyst @ Moldavite** — production data workflows and agents (n8n + Claude) with approval gates, recovering 50–60 hrs/month
+- 🩺 **Co-founder @ Cerebramha Technologies** — medical data platform end to end: pipelines on AWS, 7,000+ records standardized across 50+ variables, clinician-ready reporting
+- 📊 **Analytics foundation** — SQL (CTEs, window functions), EDA, ETL pipelines, data quality gates; 150K+ records turned into analysis-ready datasets
 - 🎯 The failure I chase hardest is the **quiet one**: nothing errors out, the output is just wrong
 - 📍 Vancouver, BC 🇨🇦
 
 ## ⚙️ Tech Stack
 
 <div align="center">
+
+**Data & Analytics**
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-414868?style=for-the-badge" alt="ETL"/>
+<img src="https://img.shields.io/badge/EDA-7aa2f7?style=for-the-badge" alt="EDA"/>
+<img src="https://img.shields.io/badge/Data%20Quality-414868?style=for-the-badge" alt="Data Quality"/>
+<img src="https://img.shields.io/badge/Dashboards-7aa2f7?style=for-the-badge" alt="Dashboards"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Entity%20Resolution-414868?style=for-the-badge" alt="Entity Resolution"/>
 
 **AI & Agents**
 
@@ -36,14 +47,33 @@
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/MCP-1a1b27?style=for-the-badge" alt="MCP"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1a1b27?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Agent%20Evaluation-414868?style=for-the-badge" alt="Agent Evaluation"/>
 
-**Languages, Frameworks & Data**
+**Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=py,ts,fastapi,nextjs,react,flask,pytorch,postgres,supabase&perline=9" alt="Core stack"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/LoRA%20Fine--Tuning-414868?style=for-the-badge" alt="LoRA Fine-Tuning"/>
+<img src="https://img.shields.io/badge/FinBERT%20%C2%B7%20DistilBERT%20%C2%B7%20Qwen2.5-7aa2f7?style=for-the-badge" alt="Transformer models"/>
+<img src="https://img.shields.io/badge/Model%20Benchmarking-414868?style=for-the-badge" alt="Model Benchmarking"/>
+<img src="https://img.shields.io/badge/CNNs-7aa2f7?style=for-the-badge" alt="CNNs"/>
+
+**Software Engineering**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,flask,nextjs,react,postgres,supabase,docker,git,github&perline=12" alt="Software engineering stack"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-414868?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/CI%2FCD-7aa2f7?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Automated%20Testing-414868?style=for-the-badge" alt="Automated Testing"/>
+<img src="https://img.shields.io/badge/Schema%20Design%20%26%20Migrations-7aa2f7?style=for-the-badge" alt="Schema Design"/>
 
 **Cloud & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,vercel,vscode&perline=8" alt="Cloud and tooling"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,githubactions,vscode&perline=5" alt="Cloud and tooling"/>
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Cursor-1a1b27?style=for-the-badge" alt="Cursor"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-414868?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 
 </div>
 
@@ -87,6 +117,26 @@ Benchmarked DistilBERT, FinBERT & a Qwen2.5 LoRA fine-tune — macro F1 **82.0% 
 3D scan defect detection and automated inspection reporting — turning raw volumetric data into structured, reviewable findings.
 
 `Python` `Computer Vision` `Reporting Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [Insurance Claims Analytics](https://github.com/tushaarrr/Insurance-Bordereaux-Claims-Analytics)
+
+Bordereaux claims analysis — cleaning and standardizing messy insurance data into structured, reportable views for portfolio-level insight.
+
+`SQL` `EDA` `Data Cleaning` `Reporting`
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 [Customer Churn Analysis](https://github.com/tushaarrr/Customer_churn)
+
+End-to-end churn analysis: EDA, feature exploration, and modeling to surface who leaves, when, and what signals it early.
+
+`Python` `Jupyter` `EDA` `ML`
 
 </td>
 </tr>
