@@ -32,6 +32,59 @@ tushar@vancouver ~ % neofetch --profile
 
 <br/>
 
+## tech stack
+
+<div align="center">
+
+**data & analytics**
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-414868?style=for-the-badge" alt="ETL"/>
+<img src="https://img.shields.io/badge/EDA-7aa2f7?style=for-the-badge" alt="EDA"/>
+<img src="https://img.shields.io/badge/Data%20Quality-414868?style=for-the-badge" alt="Data Quality"/>
+<img src="https://img.shields.io/badge/Dashboards-7aa2f7?style=for-the-badge" alt="Dashboards"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+**ai & agents**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/RAG-7aa2f7?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/MCP-1a1b27?style=for-the-badge" alt="MCP"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1a1b27?style=for-the-badge" alt="Prompt Engineering"/>
+
+**machine learning**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/LoRA%20Fine--Tuning-414868?style=for-the-badge" alt="LoRA Fine-Tuning"/>
+<img src="https://img.shields.io/badge/FinBERT%20%C2%B7%20DistilBERT%20%C2%B7%20Qwen2.5-7aa2f7?style=for-the-badge" alt="Transformer models"/>
+<img src="https://img.shields.io/badge/Model%20Benchmarking-414868?style=for-the-badge" alt="Model Benchmarking"/>
+<img src="https://img.shields.io/badge/CNNs-7aa2f7?style=for-the-badge" alt="CNNs"/>
+
+**software engineering**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,flask,nextjs,react,postgres,supabase,docker,git,github&perline=12" alt="Software engineering stack"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-414868?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/CI%2FCD-7aa2f7?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Automated%20Testing-414868?style=for-the-badge" alt="Automated Testing"/>
+
+**cloud & tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,githubactions,vscode&perline=5" alt="Cloud and tooling"/>
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Cursor-1a1b27?style=for-the-badge" alt="Cursor"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-414868?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+
+</div>
+
+<br/>
+
 ## selected work
 
 | project | what it is | the number that matters |
@@ -42,6 +95,22 @@ tushar@vancouver ~ % neofetch --profile
 | [voxelscan](https://github.com/tushaarrr/voxelscan-3d-defect-detection-inspection-reporting) | 3d scan defect detection with automated inspection reporting | raw voxels in, reviewable findings out |
 | [claims analytics](https://github.com/tushaarrr/Insurance-Bordereaux-Claims-Analytics) | bordereaux insurance data — cleaned, standardized, reportable | messy in, portfolio-level insight out |
 | [customer churn](https://github.com/tushaarrr/Customer_churn) | eda + modeling on churn signals | who leaves, when, and what predicts it |
+
+<br/>
+
+## stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushaarrr&theme=tokyonight" width="100%" alt="profile details"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushaarrr&theme=tokyonight" alt="stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushaarrr&theme=tokyonight" alt="top languages by repo"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushaarrr&theme=tokyonight" alt="top languages by commit"/>
+
+<img src="https://streak-stats.demolab.com?user=tushaarrr&theme=tokyonight&hide_border=true" alt="contribution streak"/>
+
+</div>
 
 <br/>
 
