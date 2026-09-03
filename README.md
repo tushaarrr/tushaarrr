@@ -5,23 +5,34 @@
 </div>
 
 ```text
-tushar@vancouver ~ % neofetch --profile
-
- now ·········· data & ai analyst @ moldavite
-                co-founder @ cerebramha technologies
- ships ········ ai agents with approval gates — nothing sends without a human
- languages ···· python · sql · typescript
- backend ······ fastapi · flask · next.js · postgresql · supabase
- data ········· pyspark · etl · eda · dashboards · data quality · entity resolution
- ai ··········· claude · langchain · rag · pgvector · n8n · mcp
- ml ··········· pytorch · lora fine-tuning · finbert · distilbert · qwen2.5 · cnns
- cloud ········ aws (s3, ec2 gpu) · gcp · vercel · docker · github actions
- receipts ····· 50–60 hrs/month of manual work automated
-                150k+ records standardized into analysis-ready datasets
-                104/104 planted conflicts caught, 0 false positives
-                macro-f1 82.0 → 85.7 by reading the error distribution
- education ···· post-bacc, computer information systems (data analytics) — douglas college
- location ····· vancouver, bc 🇨🇦
+                                              tushar@vancouver ───────────────────────────────────────
+                                              . Role: ................... Data & AI Analyst @ Moldavite
+               nZh*Wo*ZYu                     . Side.Quest: ................... Co-founder @ Cerebramha
+              U@$$$B#*##@*                    . Base: ........................... Vancouver, BC, Canada
+              &$@oJuf)1fk$X                   . Education: ................ CIS Data Analytics, Douglas
+              #$ku>.   .)bz                   .
+              Q&adQrifzt!ux                   . Languages.Programming: ................ Python, SQL, TS
+              Yo0Xv0`:!. ><                   . Languages.Real: ........................ English, Hindi
+              xoJ-rqt~   <<                   .
+               Yommwx[[li                     . Stack.Data: ............. PySpark, ETL, EDA, Dashboards
+                J&abCf]                       . Stack.AI: ................. Claude, LangChain, RAG, n8n
+               [w8@BMqz]'fJ1                  . Stack.Agents: ........... MCP, Inngest, Tool Use, Evals
+            )zq&$&wZQ)!,^UapqJu(              . Stack.ML: ............. PyTorch, LoRA, FinBERT, Qwen2.5
+        |nCh&@$$$&L)~]>,zobbaa#bwOX1          . Stack.Web: ................. FastAPI, Next.js, Supabase
+      )O#&W##WMM&@%p['|q*ohoo*ohaohqn         .
+     )#%M#&*o*oao*##Wpa#hkbohoMaohkbpt        ─ Contact ──────────────────────────────────────────────
+     0$&M#&Wo*ohak#k#bb*babohhWW#ahbdX        . Email: ................... tusharshandilya214@gmail.com
+     *$&&&W%M%ooahoh*bh#kakkhhM@MakbbL        . LinkedIn: ......................... tusharshandilya0421
+    t%B8WM#W%@MMoaoh*k#&aahkakB%aakbbq        . Portfolio: ................... tusharcreates.vercel.app
+    Y$&*ohhaB$B8&*o*Wa8%*#*oaaaY1]il+n(       . GitHub: ..................................... tushaarrr
+    Cqv(?>>]h$$$$%*%WoB8*#W8%w(~i<,  ,        .
+    LOj?!'  YwppOmmaka8WW%%B0|j(-+i  !        ─ Receipts ─────────────────────────────────────────────
+    Jbz)>;l]nxvf^;l>+?[)ff|)~ii!ii`.;         . Hours.Saved: ............................ 50-60 / month
+    naZv[<<-)(vkWbQXxjt(1]+~<~<>i!;,<         . Records.Standardized: ........................... 150K+
+     dbOJzut[~<+[jXZaopZLJYcnnr(]<!~          . Conflicts.Caught: ....................... 104/104, 0 FP
+     zhJvcczcuxxjttrYd8%Mokdqqdhd0Yf          . Macro.F1: ................................ 82.0 -> 85.7
+      Lp0Cd**oahkbko#8@$$$$$$$$$d             . Agents.Shipped: ................ 8  |  Tests.In.CI: 272
+          X8$$$$$$$$$$$@@$$$$$B#Y
 ```
 
 <div align="center">
