@@ -19,20 +19,20 @@
                [w8@BMqz]'fJ1                  . Stack.Agents: ........... MCP, Inngest, Tool Use, Evals
             )zq&$&wZQ)!,^UapqJu(              . Stack.ML: ............. PyTorch, LoRA, FinBERT, Qwen2.5
         |nCh&@$$$&L)~]>,zobbaa#bwOX1          . Stack.Web: ................. FastAPI, Next.js, Supabase
-      )O#&W##WMM&@%p['|q*ohoo*ohaohqn         .
-     )#%M#&*o*oao*##Wpa#hkbohoMaohkbpt        ─ Contact ──────────────────────────────────────────────
-     0$&M#&Wo*ohak#k#bb*babohhWW#ahbdX        . Email: ................... tusharshandilya214@gmail.com
-     *$&&&W%M%ooahoh*bh#kakkhhM@MakbbL        . LinkedIn: ......................... tusharshandilya0421
-    t%B8WM#W%@MMoaoh*k#&aahkakB%aakbbq        . Portfolio: ................... tusharcreates.vercel.app
-    Y$&*ohhaB$B8&*o*Wa8%*#*oaaaY1]il+n(       . GitHub: ..................................... tushaarrr
-    Cqv(?>>]h$$$$%*%WoB8*#W8%w(~i<,  ,        .
-    LOj?!'  YwppOmmaka8WW%%B0|j(-+i  !        ─ Receipts ─────────────────────────────────────────────
-    Jbz)>;l]nxvf^;l>+?[)ff|)~ii!ii`.;         . Hours.Saved: ............................ 50-60 / month
-    naZv[<<-)(vkWbQXxjt(1]+~<~<>i!;,<         . Records.Standardized: ........................... 150K+
-     dbOJzut[~<+[jXZaopZLJYcnnr(]<!~          . Conflicts.Caught: ....................... 104/104, 0 FP
-     zhJvcczcuxxjttrYd8%Mokdqqdhd0Yf          . Macro.F1: ................................ 82.0 -> 85.7
-      Lp0Cd**oahkbko#8@$$$$$$$$$d             . Agents.Shipped: ................ 8  |  Tests.In.CI: 272
-          X8$$$$$$$$$$$@@$$$$$B#Y
+      )O#&W##WMM&@%p['|q*ohoo*ohaohqn         . Stack.CRM: ........................... Salesforce, Zoho
+     )#%M#&*o*oao*##Wpa#hkbohoMaohkbpt        .
+     0$&M#&Wo*ohak#k#bb*babohhWW#ahbdX        ─ Contact ──────────────────────────────────────────────
+     *$&&&W%M%ooahoh*bh#kakkhhM@MakbbL        . Email: ................... tusharshandilya214@gmail.com
+    t%B8WM#W%@MMoaoh*k#&aahkakB%aakbbq        . LinkedIn: ......................... tusharshandilya0421
+    Y$&*ohhaB$B8&*o*Wa8%*#*oaaaY1]il+n(       . Portfolio: ................... tusharcreates.vercel.app
+    Cqv(?>>]h$$$$%*%WoB8*#W8%w(~i<,  ,        . GitHub: ..................................... tushaarrr
+    LOj?!'  YwppOmmaka8WW%%B0|j(-+i  !        .
+    Jbz)>;l]nxvf^;l>+?[)ff|)~ii!ii`.;         ─ Receipts ─────────────────────────────────────────────
+    naZv[<<-)(vkWbQXxjt(1]+~<~<>i!;,<         . Hours.Saved: ............................ 50-60 / month
+     dbOJzut[~<+[jXZaopZLJYcnnr(]<!~          . Records.Standardized: ........................... 150K+
+     zhJvcczcuxxjttrYd8%Mokdqqdhd0Yf          . Conflicts.Caught: ....................... 104/104, 0 FP
+      Lp0Cd**oahkbko#8@$$$$$$$$$d             . Macro.F1: ................................ 82.0 -> 85.7
+          X8$$$$$$$$$$$@@$$$$$B#Y             . Agents.Shipped: ................ 8  |  Tests.In.CI: 272
 ```
 
 ```text
@@ -47,6 +47,7 @@ tushar@vancouver ~ % neofetch --profile
  ai ··········· claude · langchain · rag · pgvector · n8n · inngest · mcp
  ai eng ······· agent orchestration · tool use · structured outputs · evals & guardrails · human-in-the-loop
  ml ··········· pytorch · lora fine-tuning · finbert · distilbert · qwen2.5 · cnns
+ crm ·········· salesforce · zoho · crm workflows & integrations
  cloud ········ aws (s3, ec2 gpu) · gcp · vercel · docker · github actions
  receipts ····· 50–60 hrs/month of manual work automated
                 150k+ records standardized into analysis-ready datasets
@@ -116,6 +117,14 @@ tushar@vancouver ~ % neofetch --profile
 <img src="https://img.shields.io/badge/REST%20APIs-414868?style=for-the-badge" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/CI%2FCD-7aa2f7?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 <img src="https://img.shields.io/badge/Automated%20Testing-414868?style=for-the-badge" alt="Automated Testing"/>
+
+**crm & automation**
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+<img src="https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho"/>
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable"/>
+<img src="https://img.shields.io/badge/CRM%20Workflows-414868?style=for-the-badge" alt="CRM Workflows"/>
 
 **cloud & tooling**
 
