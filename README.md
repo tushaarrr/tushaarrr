@@ -35,9 +35,42 @@
           X8$$$$$$$$$$$@@$$$$$B#Y
 ```
 
+```text
+tushar@vancouver ~ % neofetch --profile
+
+ now ·········· data & ai analyst @ moldavite
+                co-founder @ cerebramha technologies
+ ships ········ ai agents with approval gates — nothing sends without a human
+ languages ···· python · sql · typescript
+ backend ······ fastapi · flask · next.js · postgresql · supabase
+ data ········· pyspark · etl · eda · dashboards · data quality · entity resolution
+ ai ··········· claude · langchain · rag · pgvector · n8n · inngest · mcp
+ ai eng ······· agent orchestration · tool use · structured outputs · evals & guardrails · human-in-the-loop
+ ml ··········· pytorch · lora fine-tuning · finbert · distilbert · qwen2.5 · cnns
+ cloud ········ aws (s3, ec2 gpu) · gcp · vercel · docker · github actions
+ receipts ····· 50–60 hrs/month of manual work automated
+                150k+ records standardized into analysis-ready datasets
+                104/104 planted conflicts caught, 0 false positives
+                macro-f1 82.0 → 85.7 by reading the error distribution
+ education ···· post-bacc, computer information systems (data analytics) — douglas college
+ location ····· vancouver, bc 🇨🇦
+```
+
 <div align="center">
 
 [portfolio](https://tusharcreates.vercel.app) · [linkedin](https://linkedin.com/in/tusharshandilya0421) · [email](mailto:tusharshandilya214@gmail.com)
+
+</div>
+
+<br/>
+
+## the forward pass
+
+<div align="center">
+
+<img src="neural.svg" width="100%" alt="neural network: data → analytics → ai/ml → shipped with human review"/>
+
+<sub>how everything i build flows: raw data in, human-approved output out</sub>
 
 </div>
 
