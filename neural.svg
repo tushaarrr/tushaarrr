@@ -1,0 +1,124 @@
+<svg width="860" height="360" viewBox="0 0 860 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="neural network: data to analytics to ai to shipped">
+<style>
+text { font-family: 'SFMono-Regular', 'Cascadia Code', 'Fira Code', Consolas, Menlo, monospace; }
+.flow { stroke-dasharray: 5 7; animation: dash 1.1s linear infinite; }
+@keyframes dash { to { stroke-dashoffset: -12; } }
+</style>
+<rect width="860" height="360" rx="12" fill="#0d1117"/>
+<path d="M0 36 h860 v-24 a12 12 0 0 0 -12 -12 h-836 a12 12 0 0 0 -12 12 z" fill="#161b22"/>
+<rect x="0.5" y="0.5" width="859" height="359" rx="12" fill="none" stroke="#30363d"/>
+<circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="44" cy="18" r="6" fill="#ffbd2e"/><circle cx="64" cy="18" r="6" fill="#27c93f"/>
+<text x="430" y="23" text-anchor="middle" fill="#8b949e" font-size="12">neural_profile.py — forward pass, epoch ∞</text>
+<g stroke="#21262d" stroke-width="1">
+<path d="M140 80 L350 107"/>
+<path d="M140 80 L350 162"/>
+<path d="M140 80 L350 217"/>
+<path d="M140 80 L350 272"/>
+<path d="M140 135 L350 107"/>
+<path d="M140 135 L350 162"/>
+<path d="M140 135 L350 217"/>
+<path d="M140 135 L350 272"/>
+<path d="M140 190 L350 107"/>
+<path d="M140 190 L350 162"/>
+<path d="M140 190 L350 217"/>
+<path d="M140 190 L350 272"/>
+<path d="M140 245 L350 107"/>
+<path d="M140 245 L350 162"/>
+<path d="M140 245 L350 217"/>
+<path d="M140 245 L350 272"/>
+<path d="M140 300 L350 107"/>
+<path d="M140 300 L350 162"/>
+<path d="M140 300 L350 217"/>
+<path d="M140 300 L350 272"/>
+<path d="M350 107 L560 107"/>
+<path d="M350 107 L560 162"/>
+<path d="M350 107 L560 217"/>
+<path d="M350 107 L560 272"/>
+<path d="M350 162 L560 107"/>
+<path d="M350 162 L560 162"/>
+<path d="M350 162 L560 217"/>
+<path d="M350 162 L560 272"/>
+<path d="M350 217 L560 107"/>
+<path d="M350 217 L560 162"/>
+<path d="M350 217 L560 217"/>
+<path d="M350 217 L560 272"/>
+<path d="M350 272 L560 107"/>
+<path d="M350 272 L560 162"/>
+<path d="M350 272 L560 217"/>
+<path d="M350 272 L560 272"/>
+<path d="M560 107 L760 162"/>
+<path d="M560 107 L760 217"/>
+<path d="M560 162 L760 162"/>
+<path d="M560 162 L760 217"/>
+<path d="M560 217 L760 162"/>
+<path d="M560 217 L760 217"/>
+<path d="M560 272 L760 162"/>
+<path d="M560 272 L760 217"/>
+</g>
+<path class="flow" d="M140 190 L350 162" stroke="#3fb950" stroke-width="1.4" opacity="0.55" fill="none"/>
+<path class="flow" d="M350 162 L560 217" stroke="#58a6ff" stroke-width="1.4" opacity="0.55" fill="none"/>
+<path class="flow" d="M560 217 L760 162" stroke="#bc8cff" stroke-width="1.4" opacity="0.55" fill="none"/>
+<path class="flow" d="M140 80 L350 107" stroke="#3fb950" stroke-width="1.4" opacity="0.55" fill="none"/>
+<path class="flow" d="M350 272 L560 272" stroke="#58a6ff" stroke-width="1.4" opacity="0.55" fill="none"/>
+<path class="flow" d="M560 107 L760 217" stroke="#bc8cff" stroke-width="1.4" opacity="0.55" fill="none"/>
+<circle r="3" fill="#3fb950"><animateMotion dur="1.6s" begin="0s" repeatCount="indefinite" path="M140 190 L350 162"/></circle>
+<circle r="3" fill="#58a6ff"><animateMotion dur="1.6s" begin="0.55s" repeatCount="indefinite" path="M350 162 L560 217"/></circle>
+<circle r="3" fill="#bc8cff"><animateMotion dur="1.6s" begin="1.1s" repeatCount="indefinite" path="M560 217 L760 162"/></circle>
+<circle r="3" fill="#3fb950"><animateMotion dur="1.6s" begin="0.3s" repeatCount="indefinite" path="M140 80 L350 107"/></circle>
+<circle r="3" fill="#58a6ff"><animateMotion dur="1.6s" begin="0.85s" repeatCount="indefinite" path="M350 272 L560 272"/></circle>
+<circle r="3" fill="#bc8cff"><animateMotion dur="1.6s" begin="1.4s" repeatCount="indefinite" path="M560 107 L760 217"/></circle>
+<circle r="3" fill="#3fb950"><animateMotion dur="1.6s" begin="0.7s" repeatCount="indefinite" path="M140 300 L350 217"/></circle>
+<circle cx="140" cy="80" r="9" fill="none" stroke="#3fb950" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="80" r="9" fill="#161b22" stroke="#3fb950" stroke-width="1.6"/>
+<circle cx="140" cy="80" r="3.2" fill="#3fb950"/>
+<circle cx="140" cy="135" r="9" fill="none" stroke="#3fb950" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="0.22s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="0.22s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="135" r="9" fill="#161b22" stroke="#3fb950" stroke-width="1.6"/>
+<circle cx="140" cy="135" r="3.2" fill="#3fb950"/>
+<circle cx="140" cy="190" r="9" fill="none" stroke="#3fb950" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="0.44s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="0.44s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="190" r="9" fill="#161b22" stroke="#3fb950" stroke-width="1.6"/>
+<circle cx="140" cy="190" r="3.2" fill="#3fb950"/>
+<circle cx="140" cy="245" r="9" fill="none" stroke="#3fb950" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="0.66s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="0.66s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="245" r="9" fill="#161b22" stroke="#3fb950" stroke-width="1.6"/>
+<circle cx="140" cy="245" r="3.2" fill="#3fb950"/>
+<circle cx="140" cy="300" r="9" fill="none" stroke="#3fb950" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="0.88s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="0.88s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="300" r="9" fill="#161b22" stroke="#3fb950" stroke-width="1.6"/>
+<circle cx="140" cy="300" r="3.2" fill="#3fb950"/>
+<circle cx="350" cy="107" r="9" fill="none" stroke="#58a6ff" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="1.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="350" cy="107" r="9" fill="#161b22" stroke="#58a6ff" stroke-width="1.6"/>
+<circle cx="350" cy="107" r="3.2" fill="#58a6ff"/>
+<circle cx="350" cy="162" r="9" fill="none" stroke="#58a6ff" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="1.32s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="1.32s" repeatCount="indefinite"/></circle>
+<circle cx="350" cy="162" r="9" fill="#161b22" stroke="#58a6ff" stroke-width="1.6"/>
+<circle cx="350" cy="162" r="3.2" fill="#58a6ff"/>
+<circle cx="350" cy="217" r="9" fill="none" stroke="#58a6ff" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="1.54s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="1.54s" repeatCount="indefinite"/></circle>
+<circle cx="350" cy="217" r="9" fill="#161b22" stroke="#58a6ff" stroke-width="1.6"/>
+<circle cx="350" cy="217" r="3.2" fill="#58a6ff"/>
+<circle cx="350" cy="272" r="9" fill="none" stroke="#58a6ff" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="1.76s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="1.76s" repeatCount="indefinite"/></circle>
+<circle cx="350" cy="272" r="9" fill="#161b22" stroke="#58a6ff" stroke-width="1.6"/>
+<circle cx="350" cy="272" r="3.2" fill="#58a6ff"/>
+<circle cx="560" cy="107" r="9" fill="none" stroke="#bc8cff" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="1.98s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="1.98s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="107" r="9" fill="#161b22" stroke="#bc8cff" stroke-width="1.6"/>
+<circle cx="560" cy="107" r="3.2" fill="#bc8cff"/>
+<circle cx="560" cy="162" r="9" fill="none" stroke="#bc8cff" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="162" r="9" fill="#161b22" stroke="#bc8cff" stroke-width="1.6"/>
+<circle cx="560" cy="162" r="3.2" fill="#bc8cff"/>
+<circle cx="560" cy="217" r="9" fill="none" stroke="#bc8cff" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="2.42s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="2.42s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="217" r="9" fill="#161b22" stroke="#bc8cff" stroke-width="1.6"/>
+<circle cx="560" cy="217" r="3.2" fill="#bc8cff"/>
+<circle cx="560" cy="272" r="9" fill="none" stroke="#bc8cff" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="2.64s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="2.64s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="272" r="9" fill="#161b22" stroke="#bc8cff" stroke-width="1.6"/>
+<circle cx="560" cy="272" r="3.2" fill="#bc8cff"/>
+<circle cx="760" cy="162" r="9" fill="none" stroke="#d29922" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="2.86s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="2.86s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="162" r="9" fill="#161b22" stroke="#d29922" stroke-width="1.6"/>
+<circle cx="760" cy="162" r="3.2" fill="#d29922"/>
+<circle cx="760" cy="217" r="9" fill="none" stroke="#d29922" opacity="0"><animate attributeName="r" values="9;19" dur="2.6s" begin="3.08s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.45;0" dur="2.6s" begin="3.08s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="217" r="9" fill="#161b22" stroke="#d29922" stroke-width="1.6"/>
+<circle cx="760" cy="217" r="3.2" fill="#d29922"/>
+<text x="140" y="60" text-anchor="middle" fill="#3fb950" font-size="14" font-weight="600">data</text>
+<text x="140" y="342" text-anchor="middle" fill="#8b949e" font-size="11">sql · pyspark · etl</text>
+<text x="350" y="60" text-anchor="middle" fill="#58a6ff" font-size="14" font-weight="600">analytics</text>
+<text x="350" y="342" text-anchor="middle" fill="#8b949e" font-size="11">eda · dashboards · quality</text>
+<text x="560" y="60" text-anchor="middle" fill="#bc8cff" font-size="14" font-weight="600">ai / ml</text>
+<text x="560" y="342" text-anchor="middle" fill="#8b949e" font-size="11">claude · rag · pytorch · lora</text>
+<text x="760" y="60" text-anchor="middle" fill="#d29922" font-size="14" font-weight="600">ships</text>
+<text x="760" y="342" text-anchor="middle" fill="#8b949e" font-size="11">approval gate → human</text>
+</svg>
