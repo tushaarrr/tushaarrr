@@ -7,9 +7,9 @@
 ```text
                                               tushar@vancouver ───────────────────────────────────────
                                               . Role: ................... Data & AI Analyst @ Moldavite
-               nZh*Wo*ZYu                     . Side.Quest: ................... Co-founder @ Cerebramha
+               nZh*Wo*ZYu                     . Side.Quest: ................... AI @ Cerebramha
               U@$$$B#*##@*                    . Base: ........................... Vancouver, BC, Canada
-              &$@oJuf)1fk$X                   . Education: ................ CIS Data Analytics, Douglas
+              &$@oJuf)1fk$X                   . Education: ........ CIS Data Analytics, Douglas College
               #$ku>.   .)bz                   .
               Q&adQrifzt!ux                   . Languages.Programming: ................ Python, SQL, TS
               Yo0Xv0`:!. ><                   . Languages.Real: ........................ English, Hindi
@@ -28,11 +28,11 @@
     Cqv(?>>]h$$$$%*%WoB8*#W8%w(~i<,  ,        . GitHub: ..................................... tushaarrr
     LOj?!'  YwppOmmaka8WW%%B0|j(-+i  !        .
     Jbz)>;l]nxvf^;l>+?[)ff|)~ii!ii`.;         ─ Receipts ─────────────────────────────────────────────
-    naZv[<<-)(vkWbQXxjt(1]+~<~<>i!;,<         . Hours.Saved: ............................ 50-60 / month
+    naZv[<<-)(vkWbQXxjt(1]+~<~<>i!;,<         . Hours.Saved: ............................ 100+ / month
      dbOJzut[~<+[jXZaopZLJYcnnr(]<!~          . Records.Standardized: ........................... 150K+
      zhJvcczcuxxjttrYd8%Mokdqqdhd0Yf          . Conflicts.Caught: ....................... 104/104, 0 FP
       Lp0Cd**oahkbko#8@$$$$$$$$$d             . Macro.F1: ................................ 82.0 -> 85.7
-          X8$$$$$$$$$$$@@$$$$$B#Y             . Agents.Shipped: ................ 8  |  Tests.In.CI: 272
+          X8$$$$$$$$$$$@@$$$$$B#Y             . Agents.Shipped: ................ 15  |  Tests.In.CI: 400
 ```
 
 ```text
